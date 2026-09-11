@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**RamaAkach/RamaAkach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a graduate student at the University of Connecticut interested in data analytics and technology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+3
+**MS in Business Analytics & Project Management (MSBAPM) @ UConn**
+
+### 💻 Currently Learning
+
+* Data analysis and machine learning models
+* Git, GitHub, and collaborative development workflows
+* Data analytics and visualization
+
+### 🛠️ Skills & Tools
+
+`Python` `SQL` `R` `Excel` `Tableau` `HTML` `Git` `GitHub`
+
+### ✨ A Little About Me
+
+Outside of school, I enjoy video editing, watching movies and shows, and playing video games.
