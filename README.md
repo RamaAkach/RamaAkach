@@ -4,7 +4,7 @@
 I'm a graduate student at the University of Connecticut interested in data analytics and technology. 
 
 ### 🎓 Education
-3
+
 **MS in Business Analytics & Project Management (MSBAPM) @ UConn**
 
 ### 💻 Currently Learning
