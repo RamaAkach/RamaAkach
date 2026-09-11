@@ -9,9 +9,9 @@ I'm a graduate student at the University of Connecticut interested in data analy
 
 ### 💻 Currently Learning
 
-* Data analysis and machine learning models
+* Data analysis, data visualization and machine learning models
 * Git, GitHub, and collaborative development workflows
-* Data analytics and visualization
+* Data Engineering 
 
 ### 🛠️ Skills & Tools
 
